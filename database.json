@@ -1,0 +1,16 @@
+{
+    "users": {
+        "342609252898177026": {
+            "elo": 0,
+            "ubisoft_ign": null,
+            "wins": 0,
+            "losses": 0,
+            "matchups": {},
+            "frozen_matchups": {},
+            "current_rank": "Unranked",
+            "demotion_strikes": 0
+        }
+    },
+    "matches": [],
+    "leaderboard_msg_id": "1521909856435437801"
+}
